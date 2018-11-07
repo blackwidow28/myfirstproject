@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  color: black;
+}
+.container {
+  width: 100%;
+  display: inline-block;
+  background-color: black;
+}
+.imageLeft {
+  width: 50%
+  display: inline-block;
+}
+.imageLeft img {
+  width: 100%;
+  display: inline-block;
+}
+.textRight {
+  width: 50%;
+  color: white;
+
+}
