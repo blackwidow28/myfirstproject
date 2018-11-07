@@ -1,0 +1,32 @@
+header {
+  background-color: black;
+  font-family: 'Poor Story', cursive;
+  color: white;
+  text-align: center;
+  border-radius: 30px;
+}
+
+.div-text {
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgba(0,0,0,1);
+  color: white;
+  text-align: center;
+  border-radius: 20px;
+}
+.div-image {
+  background-image: url("lotus-flower.jpg");
+  background-size: cover;
+  background-position: center;
+  font-family: 'Montserrat', sans-serif;
+  height: 400px;
+
+  border-radius: 20px;
+
+}
+ul {
+  display: inline;
+  text-align: center;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+
+}
